@@ -1,4 +1,4 @@
-# Parth There! 👋🏻
+# Parth here! 👋🏻
 
 I'm in my penultimate year of study as a student🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.
 I love❤ to learn about new developments in technology and ways to implement them. I’m currently learning Back-end Web Development.
