@@ -57,5 +57,5 @@ I love❤ to learn about new developments in technology and ways to implement th
 
 If you like collaborating for some project feel free to reach out! 
 
- ![Dino](https://raw.githubusercontent.com/priyanshk20/priyanshk20/master/dino.gif)
+ ![Dino](https://github.com/pdhawan2001/pdhawan2001/blob/main/dino.gif)
  
