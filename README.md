@@ -1,14 +1,12 @@
-# Parth here! 👋🏻
+## Hi, I'm Parth Dhawan 👋
 
-I'm in my penultimate year of study as a student🎓 pursuing Computer-Science-Engineering from SRMIST,KTR.
-I love❤ to learn about new developments in technology and ways to implement them. I’m currently learning Back-end Web Development.
-<br />
-
-
-![](https://komarev.com/ghpvc/?username=pdhawan2001&color=blue)
-
-<br />
-
+- 🎓 Currently pursuing my **Master’s in Distributed Systems Engineering** at **TU Dresden**.  
+- 💻 Working as a **Full Stack Developer (Working Student)** at **Infineon Technologies**, where I’m modernizing legacy workflows, implementing RBAC, and deploying production-grade systems.  
+- 🧪 Contributed to HPC research at **TU Dresden**, optimizing resource consumption using Python, SQLAlchemy, and data visualization tools.  
+- 🚀 I love building end-to-end systems — from chatbots and automation tools to full-stack SaaS products powered by **Next.js**, **OpenAI**, **Stripe**, and **MongoDB**.  
+- 🛠️ Enjoy working with **DevOps tools**, secure auth flows, CI/CD pipelines, and API integrations that tie everything together.  
+- 💡 Always tinkering — whether it's a microservice idea, a side project, or a clever script to automate something tedious.  
+- 🏏 When I’m not coding, I’m usually following **cricket or football**, swimming, or hitting the gym.
 
 **Languages and Tools:**  
 
@@ -32,38 +30,15 @@ I love❤ to learn about new developments in technology and ways to implement th
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashasn&layout=compact&theme=github_dark)
 
-
-## Let's grab some coffee ☕
+## Let's connect 🌐
 
 <p>
-  <a href="https://www.linkedin.com/in/parth-dhawan-67253918b/"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/Linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
-  <a href="mailto:pdhawan2001@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
-  <a href="https://twitter.com/ParthDhawan9"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
-  <a href="https://www.instagram.com/parthdhawan_/"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
-</p
+  <a href="https://www.linkedin.com/in/parth-dhawan-67253918b/"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/LinkedIn.svg" height="30px" width="30px" alt="LinkedIn"></a>
+  <a href="https://x.com/ParthDhawan9"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/x.svg" height="30px" width="30px" alt="Twitter"></a>
+  <a href="mailto:pdhawan2001@gmail.com?subject=Hello%20from%20your%20GitHub%20README&body=Message"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/gmail.svg" height="30px" width="30px" alt="Gmail" /></a>
+</p>
 
 If you like collaborating for some project feel free to reach out! 
 
  ![Dino](https://github.com/pdhawan2001/pdhawan2001/blob/main/dino.gif)
  
-## Hi, I'm Yashas Nataraj
-
-- 🎓 I'm a Masters student in **Distributed Systems Engineering** at **TU Dresden**. 
-- 💻 3+ years of SDE experience at **WS Audiology** and **Danske IT**. 
-- 🔧 Currently working with **Kubernetes Operators** and **Kubebuilder** for my master thesis.  
-- 🧠 Always curious – you’ll find some of my playgrounds and experiments below. 
-- 🤝 Open to discussions or collaborations on **Distributed Systems**, **LLMs**, **Golang**, **Kubernetes**.
-- 💪 I keep my brain active with **DSA** problems and my body with **Badminton** and **Cricket** . 
-- Fan of **Arsenal** and **RCB** (no pity, thanks 😅)
-
-## Other Profiles
-
-<p align="left">
-<a href="https://www.linkedin.com/in/yashas-n/" target="_blank"><img height="30" src="./Resources/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/yashas_n_raju/" target="_blank"><img height="30" src="./Resources/leetcode.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-
-
-
