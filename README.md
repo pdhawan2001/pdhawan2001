@@ -13,37 +13,24 @@ I love❤ to learn about new developments in technology and ways to implement th
 **Languages and Tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/python.svg"></code>
+<code><img height="40" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/Go.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/mongodb.svg"></code>
+<code><img height="30" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/Express.svg"></code>
+<code><img height="30" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/React.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/Numpy.svg"></code>
+<code><img height="30" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/Pandas.svg"></code>
+<code><img height="30" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/Docker.svg"></code>
+<code><img height="30" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/Kubernetes.svg"></code>
 <code><img height="30" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/db.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/cpp.png"></code>
 <code><img height="30" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/heroku.png"></code>
-<code><img height="30" src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Tech/vscode.png"></code>
 
-<br />
+## Most Used Languages
 
-[![Parth's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pdhawan2001&theme=xcode)](https://git.io/pdhawan2001)
-
-<br />
-
-![Parth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pdhawan2001) 
-<br />
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdhawan2001&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true" alt="Parth's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pdhawan2001&layout=compact&theme=material-synthwave" />
-  
-</a>
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashasn&layout=compact&theme=github_dark)
 
 
 ## Let's grab some coffee ☕
@@ -59,3 +46,24 @@ If you like collaborating for some project feel free to reach out!
 
  ![Dino](https://github.com/pdhawan2001/pdhawan2001/blob/main/dino.gif)
  
+## Hi, I'm Yashas Nataraj
+
+- 🎓 I'm a Masters student in **Distributed Systems Engineering** at **TU Dresden**. 
+- 💻 3+ years of SDE experience at **WS Audiology** and **Danske IT**. 
+- 🔧 Currently working with **Kubernetes Operators** and **Kubebuilder** for my master thesis.  
+- 🧠 Always curious – you’ll find some of my playgrounds and experiments below. 
+- 🤝 Open to discussions or collaborations on **Distributed Systems**, **LLMs**, **Golang**, **Kubernetes**.
+- 💪 I keep my brain active with **DSA** problems and my body with **Badminton** and **Cricket** . 
+- Fan of **Arsenal** and **RCB** (no pity, thanks 😅)
+
+## Other Profiles
+
+<p align="left">
+<a href="https://www.linkedin.com/in/yashas-n/" target="_blank"><img height="30" src="./Resources/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/yashas_n_raju/" target="_blank"><img height="30" src="./Resources/leetcode.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+
+
