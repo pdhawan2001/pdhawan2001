@@ -33,9 +33,9 @@
 ## Let's connect 🌐
 
 <p>
-  <a href="https://www.linkedin.com/in/parth-dhawan-67253918b/"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/LinkedIn.svg" height="30px" width="30px" alt="LinkedIn"></a>
-  <a href="https://x.com/ParthDhawan9"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/x.svg" height="30px" width="30px" alt="Twitter"></a>
-  <a href="mailto:pdhawan2001@gmail.com?subject=Hello%20from%20your%20GitHub%20README&body=Message"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/gmail.svg" height="30px" width="30px" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/parth-dhawan-67253918b/"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/LinkedIn.svg" height="30" alt="LinkedIn"></a>
+  <a href="https://x.com/ParthDhawan9"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/x.svg" height="30" alt="Twitter"></a>
+  <a href="mailto:pdhawan2001@gmail.com?subject=Hello%20from%20your%20GitHub%20README&body=Message"><img src="https://github.com/pdhawan2001/pdhawan2001/blob/main/Socials/gmail.svg" height="30" alt="Gmail" /></a>
 </p>
 
 If you like collaborating for some project feel free to reach out! 
