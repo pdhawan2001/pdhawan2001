@@ -1,6 +1,7 @@
 ## Hi, I'm Parth Dhawan 👋
 
-- 🎓 Currently pursuing my **Master’s in Distributed Systems Engineering** at **TU Dresden**.  
+- 🎓 I’m a Master’s student in Distributed Systems Engineering at TU Dresden.
+- 📦 Currently working on my master thesis, where I'm collecting IMA (Integrity Measurement Architecture) runtime metrics and generating SBOMs from containers running inside VMs to enhance trust and transparency in cloud-native environments. 
 - 💻 Working as a **Full Stack Developer (Working Student)** at **Infineon Technologies**, where I’m modernizing legacy workflows, implementing RBAC, and deploying production-grade systems.  
 - 🧪 Contributed to HPC research at **TU Dresden**, optimizing resource consumption using Python, SQLAlchemy, and data visualization tools.  
 - 🚀 I love building end-to-end systems — from chatbots and automation tools to full-stack SaaS products powered by **Next.js**, **OpenAI**, **Stripe**, and **MongoDB**.  
