@@ -7,7 +7,7 @@
 - 🚀 I love building end-to-end systems — from chatbots and automation tools to full-stack SaaS products powered by **Next.js**, **OpenAI**, **Stripe**, and **MongoDB**.  
 - 🛠️ Enjoy working with **DevOps tools**, secure auth flows, CI/CD pipelines, and API integrations that tie everything together.  
 - 💡 Always tinkering — whether it's a microservice idea, a side project, or a clever script to automate something tedious.  
-- 🏏 When I’m not coding, I’m usually following **F1, tennis or football**, swimming, or hitting the gym.
+- 🏏 When I’m not coding, I’m usually watching **F1, tennis, or football**, swimming, or hitting the gym.
 
 **Languages and Tools:**  
 
